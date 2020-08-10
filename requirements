@@ -1,0 +1,4 @@
+keras==2.2.4
+keras-bert==0.81.1
+numpy==1.19.1
+keras_contrib==0.0.2
